@@ -10,6 +10,10 @@
 
 ### 푼 문제
 
+- [42626번 - 더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)
+- [42748번 - K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)
+- [81301번 - 숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301)
+
 ## 리트코드 (우선 순위 2)
 
 - 난이도 순으로 풀 예정
