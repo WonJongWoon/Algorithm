@@ -2,9 +2,9 @@
 
 - 사용 언어 : Java 8
 - 매일 최소 1문제씩 풀 예정
-- 사용 플랫폼 : 프로그래머스 > 리트코드 > 백준
+- 사용 플랫폼 : 프로그래머스
 
-## 프로그래머스 (우선 순위 1)
+## 일지
 
 #### 2021. 12. 30
 
@@ -41,15 +41,3 @@
     - [소스](src/com/algorithm/programmers/Solution12910.java)
 - [12933번 - 정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933)
     - [소스](src/com/algorithm/programmers/Solution12933.java)
-
-## 리트코드 (우선 순위 2)
-
-- 난이도 순으로 풀 예정
-
-### 푼 문제
-
-## 백준 (우선 순위 3)
-
-- 티어(solved.ac 기준) 순으로 풀 예정
-
-### 푼 문제
