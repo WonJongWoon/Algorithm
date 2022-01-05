@@ -93,3 +93,18 @@
     - [소스](src/com/algorithm/programmers/Solution12947.java)
 - [12901번 - 2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)
     - [소스](src/com/algorithm/programmers/Solution12901.java)
+
+#### 2021. 01. 05
+
+- [64061번 - 크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)
+    - [소스](src/com/algorithm/programmers/Solution64061.java)
+- [42840번 -모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
+    - [소스](src/com/algorithm/programmers/Solution42840.java)
+- [42576번 - 완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
+    - [소스](src/com/algorithm/programmers/Solution42576.java)
+- [12930번 - 이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)
+    - [소스](src/com/algorithm/programmers/Solution12930.java)
+- [12935번 - 제일 작은 수 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12935)
+    - [소스](src/com/algorithm/programmers/Solution12935.java)
+- [12969번 - 직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969)
+    - [소스](src/com/algorithm/programmers/Solution12969.java)
