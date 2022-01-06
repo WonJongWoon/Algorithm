@@ -1,7 +1,7 @@
 package com.algorithm.programmers;
 
 // Created by https://github.com/WonJongWoon 2022/01/06
-// Problem : https://programmers.co.kr/learn/courses/30/lessons/12934g
+// Problem : https://programmers.co.kr/learn/courses/30/lessons/12934
 
 class Solution12934 {
 
