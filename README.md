@@ -133,3 +133,18 @@
     - [소스](src/com/algorithm/programmers/Solution12982.java)
 - [12977번 - 소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)
     - [소스](src/com/algorithm/programmers/Solution12977.java)
+
+#### 2021. 01. 07
+
+- [43165번 - 타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
+    - [소스](src/com/algorithm/programmers/Solution43165.java)
+- [42747번 - H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)
+    - [소스](src/com/algorithm/programmers/Solution42747.java)
+- [42842번 - 카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)
+    - [소스](src/com/algorithm/programmers/Solution42842.java)
+- [12939번 - 최댓값과 최솟값](https://programmers.co.kr/learn/courses/30/lessons/12939)
+    - [소스](src/com/algorithm/programmers/Solution12939.java)
+- [12924번 - 숫자의 표현](https://programmers.co.kr/learn/courses/30/lessons/12924)
+    - [소스](src/com/algorithm/programmers/Solution12924.java)
+- [17686번 - [3차] 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)
+    - [소스](src/com/algorithm/programmers/Solution17686.java)
