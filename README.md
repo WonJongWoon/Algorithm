@@ -148,3 +148,8 @@
     - [소스](src/com/algorithm/programmers/Solution12924.java)
 - [17686번 - [3차] 파일명 정렬](https://programmers.co.kr/learn/courses/30/lessons/17686)
     - [소스](src/com/algorithm/programmers/Solution17686.java)
+
+#### 2021. 01. 08
+
+- [12949번 - 행렬의 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12949)
+    - [소스](src/com/algorithm/programmers/Solution12949.java)
