@@ -155,3 +155,5 @@
     - [소스](src/com/algorithm/programmers/Solution12949.java)
 - [42586번 - 기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
     - [소스](src/com/algorithm/programmers/Solution42586.java)
+- [42587번 - 프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
+    - [소스](src/com/algorithm/programmers/Solution42587.java)
