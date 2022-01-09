@@ -157,3 +157,10 @@
     - [소스](src/com/algorithm/programmers/Solution42586.java)
 - [42587번 - 프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)
     - [소스](src/com/algorithm/programmers/Solution42587.java)
+
+#### 2021. 01. 09
+
+- [12909번 - 올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909)
+    - [소스](src/com/algorithm/programmers/Solution12909.java)
+- [12945번 - 피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)
+    - [소스](src/com/algorithm/programmers/Solution12945.java)
