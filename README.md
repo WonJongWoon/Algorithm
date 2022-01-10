@@ -164,3 +164,10 @@
     - [소스](src/com/algorithm/programmers/Solution12909.java)
 - [12945번 - 피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945)
     - [소스](src/com/algorithm/programmers/Solution12945.java)
+
+#### 2021. 01. 10
+
+- [42862번 - 체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)
+    - [소스](src/com/algorithm/programmers/Solution42862.java)
+- [42889번 - 실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)
+    - [소스](src/com/algorithm/programmers/Solution42889.java)
