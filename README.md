@@ -171,3 +171,8 @@
     - [소스](src/com/algorithm/programmers/Solution42862.java)
 - [42889번 - 실패율](https://programmers.co.kr/learn/courses/30/lessons/42889)
     - [소스](src/com/algorithm/programmers/Solution42889.java)
+
+#### 2021. 01. 11
+
+- [17682번 - [1차]다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682)
+    - [소스](src/com/algorithm/programmers/Solution17682.java)
