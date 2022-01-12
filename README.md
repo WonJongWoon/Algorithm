@@ -176,3 +176,8 @@
 
 - [17682번 - [1차]다트게임](https://programmers.co.kr/learn/courses/30/lessons/17682)
     - [소스](src/com/algorithm/programmers/Solution17682.java)
+
+#### 2021. 01. 12
+
+- [12913번 - 땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)
+    - [소스](src/com/algorithm/programmers/Solution12913.java)
