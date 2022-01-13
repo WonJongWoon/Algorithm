@@ -181,3 +181,10 @@
 
 - [12913번 - 땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)
     - [소스](src/com/algorithm/programmers/Solution12913.java)
+
+#### 2021. 01. 13
+
+- [42746번 - 가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746)
+    - [소스](src/com/algorithm/programmers/Solution42746.java)
+- [42885번 - 구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)
+    - [소스](src/com/algorithm/programmers/Solution42885.java)
