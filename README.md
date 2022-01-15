@@ -199,3 +199,11 @@
 
 - [12911번 - 다음 큰 숫자](https://programmers.co.kr/learn/courses/30/lessons/12911)
   - [소스](src/com/algorithm/programmers/Solution12911.java)
+- [42888번 - 오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)
+  - [소스](src/com/algorithm/programmers/Solution42888.java)
+- [12953번 - N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953)
+  - [소스](src/com/algorithm/programmers/Solution12953.java)
+- [12941번 - 최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941)
+  - [소스](src/com/algorithm/programmers/Solution12941.java)
+- [92341번 - 주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341)
+  - [소스](src/com/algorithm/programmers/Solution92341.java)
