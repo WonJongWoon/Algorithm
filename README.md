@@ -132,3 +132,9 @@
 - [12953번 - N개의 최소공배수](https://programmers.co.kr/learn/courses/30/lessons/12953) - [소스](src/com/algorithm/programmers/Solution12953.java) - [풀이](https://jongwoon.tistory.com/106)
 - [12941번 - 최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) - [소스](src/com/algorithm/programmers/Solution12941.java) - [풀이](https://jongwoon.tistory.com/107)
 - [92341번 - 주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341) - [소스](src/com/algorithm/programmers/Solution92341.java) - [풀이](https://jongwoon.tistory.com/109)
+
+#### 2021. 01. 16
+
+- [42577번 - 전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) - [소스](src/com/algorithm/programmers/Solution42577.java) - [풀이](https://jongwoon.tistory.com/129)
+- [49189번 - 가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) - [소스](src/com/algorithm/programmers/Solution49189.java) - [풀이](https://jongwoon.tistory.com/128)
+- [43162번 - 네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) - [소스](src/com/algorithm/programmers/Solution43162.java) - [풀이](https://jongwoon.tistory.com/127)
