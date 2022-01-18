@@ -147,6 +147,6 @@
 
 #### 2021. 01. 18
 
-- [1844번 - 섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/1844) - [소스](src/com/algorithm/programmers/Solution1844.java) - [풀이](https://jongwoon.tistory.com/133)
-- [12978번 - 등굣길](https://programmers.co.kr/learn/courses/30/lessons/12978) - [소스](src/com/algorithm/programmers/Solution12978.java) - [풀이](https://jongwoon.tistory.com/135)
-- [70129번 - 정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/70129) - [소스](src/com/algorithm/programmers/Solution70129.java) - [풀이](https://jongwoon.tistory.com/134)
+- [1844번 - 게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844) - [소스](src/com/algorithm/programmers/Solution1844.java) - [풀이](https://jongwoon.tistory.com/133)
+- [12978번 - 배달](https://programmers.co.kr/learn/courses/30/lessons/12978) - [소스](src/com/algorithm/programmers/Solution12978.java) - [풀이](https://jongwoon.tistory.com/135)
+- [70129번 - 이진 변환 반복하기](https://programmers.co.kr/learn/courses/30/lessons/70129) - [소스](src/com/algorithm/programmers/Solution70129.java) - [풀이](https://jongwoon.tistory.com/134)
