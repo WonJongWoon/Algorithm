@@ -160,3 +160,8 @@
 #### 2021. 01. 20
 
 - [43238번 - 입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) - [소스](src/com/algorithm/programmers/Solution43238.java) - [풀이](https://jongwoon.tistory.com/139)
+
+#### 2021. 01. 21
+
+- [12899번 - 124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) - [소스](src/com/algorithm/programmers/Solution12899.java) - [풀이](https://jongwoon.tistory.com/140)
+
