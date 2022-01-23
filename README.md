@@ -168,3 +168,7 @@
 #### 2021. 01. 22
 
 - [12951번 - JadenCase 문자열 만들기](https://programmers.co.kr/learn/courses/30/lessons/12951) - [소스](src/com/algorithm/programmers/Solution12951.java) - [풀이](https://jongwoon.tistory.com/141)
+
+#### 2021. 01. 23
+
+- [42578번 - 위장](https://programmers.co.kr/learn/courses/30/lessons/42578) - [소스](src/com/algorithm/programmers/Solution42578.java) - [풀이](https://jongwoon.tistory.com/142)
