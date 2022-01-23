@@ -1,7 +1,7 @@
 package com.algorithm.programmers;
 
 // Created by https://github.com/WonJongWoon 2022/01/16
-// Problem : https://programmers.co.kr/learn/courses/30/gitlessons/42577
+// Problem : https://programmers.co.kr/learn/courses/30/lessons/42577
 
 import java.util.Arrays;
 import java.util.Set;
