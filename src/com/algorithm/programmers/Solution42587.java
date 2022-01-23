@@ -1,7 +1,7 @@
 package com.algorithm.programmers;
 
 // Created by https://github.com/WonJongWoon 2022/01/08
-// Problem : https://programmers.co.kr/learn/courses/30/gitlessons/42587
+// Problem : https://programmers.co.kr/learn/courses/30/lessons/42587
 
 import java.util.LinkedList;
 import java.util.Queue;
