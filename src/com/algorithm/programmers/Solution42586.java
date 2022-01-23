@@ -1,7 +1,7 @@
 package com.algorithm.programmers;
 
 // Created by https://github.com/WonJongWoon 2022/01/08
-// Problem : https://programmers.co.kr/learn/courses/30/gitlessons/42586
+// Problem : https://programmers.co.kr/learn/courses/30/lessons/42586
 
 import java.util.ArrayList;
 import java.util.LinkedList;
