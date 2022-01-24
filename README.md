@@ -172,3 +172,7 @@
 #### 2021. 01. 23
 
 - [42578번 - 위장](https://programmers.co.kr/learn/courses/30/lessons/42578) - [소스](src/com/algorithm/programmers/Solution42578.java) - [풀이](https://jongwoon.tistory.com/142)
+
+#### 2021. 01. 24
+
+- [17680번 - [1차]캐쉬](https://programmers.co.kr/learn/courses/30/lessons/17680) - [소스](src/com/algorithm/programmers/Solution17680.java) - [풀이](https://jongwoon.tistory.com/143)
