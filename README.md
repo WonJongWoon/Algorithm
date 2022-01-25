@@ -176,3 +176,7 @@
 #### 2021. 01. 24
 
 - [17680번 - [1차]캐쉬](https://programmers.co.kr/learn/courses/30/lessons/17680) - [소스](src/com/algorithm/programmers/Solution17680.java) - [풀이](https://jongwoon.tistory.com/143)
+
+#### 2021. 01. 24
+
+- [12914번 - 멀리 뛰기](https://programmers.co.kr/learn/courses/30/lessons/12914) - [소스](src/com/algorithm/programmers/Solution12914.java) - [풀이](https://jongwoon.tistory.com/144)
