@@ -184,3 +184,7 @@
 #### 2021. 01. 26
 
 - [12907번 - 거스름돈](https://programmers.co.kr/learn/courses/30/lessons/12907) - [소스](src/com/algorithm/programmers/Solution12907.java) - [풀이](https://jongwoon.tistory.com/146)
+
+#### 2021. 01. 27
+
+- [12973번 - 짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) - [소스](src/com/algorithm/programmers/Solution12973.java) - [풀이](https://jongwoon.tistory.com/147)
