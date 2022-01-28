@@ -188,3 +188,7 @@
 #### 2021. 01. 27
 
 - [12973번 - 짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) - [소스](src/com/algorithm/programmers/Solution12973.java) - [풀이](https://jongwoon.tistory.com/147)
+
+#### 2021. 01. 28
+
+- [68645번 - 삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645) - [소스](src/com/algorithm/programmers/Solution68645.java) - [풀이](https://jongwoon.tistory.com/148)
