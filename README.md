@@ -192,3 +192,7 @@
 #### 2021. 01. 28
 
 - [68645번 - 삼각 달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645) - [소스](src/com/algorithm/programmers/Solution68645.java) - [풀이](https://jongwoon.tistory.com/148)
+
+#### 2021. 01. 29
+
+- [17677번 - [1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) - [소스](src/com/algorithm/programmers/Solution17677.java) - [풀이](https://jongwoon.tistory.com/150)
