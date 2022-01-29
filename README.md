@@ -3,7 +3,7 @@
 - 사용 언어 : Java 8
 - 매일 최소 1문제씩 풀 예정
 - 사용 플랫폼 : 프로그래머스
-- 풀이 : [블로그](https://jongwoon.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4)
+- 풀이 : [블로그](https://jongwoon.tistory.com/category/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
 ## 일지
 
