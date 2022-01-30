@@ -196,3 +196,7 @@
 #### 2021. 01. 29
 
 - [17677번 - [1차] 뉴스 클러스터링](https://programmers.co.kr/learn/courses/30/lessons/17677) - [소스](src/com/algorithm/programmers/Solution17677.java) - [풀이](https://jongwoon.tistory.com/150)
+
+#### 2021. 01. 30
+
+- [49994번 - 방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994) - [소스](src/com/algorithm/programmers/Solution49994.java) - [풀이](https://jongwoon.tistory.com/152)
