@@ -200,3 +200,7 @@
 #### 2021. 01. 30
 
 - [49994번 - 방문 길이](https://programmers.co.kr/learn/courses/30/lessons/49994) - [소스](src/com/algorithm/programmers/Solution49994.java) - [풀이](https://jongwoon.tistory.com/152)
+
+#### 2021. 01. 31
+
+- [42579번 - 베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) - [소스](src/com/algorithm/programmers/Solution42579.java) - [풀이](https://jongwoon.tistory.com/154)
