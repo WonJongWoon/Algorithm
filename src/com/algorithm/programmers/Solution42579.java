@@ -4,10 +4,10 @@ package com.algorithm.programmers;
 // Problem : https://programmers.co.kr/learn/courses/30/lessons/42579
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.PriorityQueue;
 import java.util.TreeMap;
 
 class Solution42579 {
@@ -38,16 +38,18 @@ class Solution42579 {
 			freq.put(genres[id], freq.getOrDefault(genres[id], 0) + plays[id]);
 		}
 
-		Map<String, PriorityQueue<Genre>> statistics = new TreeMap<>((s1, s2) -> freq.get(s2) - freq.get(s1));
+		Map<String, List<Genre>> statistics = new TreeMap<>((s1, s2) -> freq.get(s2) - freq.get(s1));
 		for (int id = 0; id < genres.length; id++) {
-			statistics.computeIfAbsent(genres[id], (key) -> new PriorityQueue<>()).add(new Genre(id, plays[id]));
+			statistics.computeIfAbsent(genres[id], (key) -> new ArrayList<>()).add(new Genre(id, plays[id]));
 		}
 
 		List<Integer> result = new ArrayList<>();
-		for (PriorityQueue<Genre> songs : statistics.values()) {
+		for (List<Genre> songs : statistics.values()) {
+			Collections.sort(songs);
+			
 			int length = Math.min(songs.size(), 2);
 			for (int idx = 0; idx < length; idx++) {
-				result.add(songs.poll().getId());
+				result.add(songs.get(idx).getId());
 			}
 		}
 
