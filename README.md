@@ -204,3 +204,7 @@
 #### 2021. 01. 31
 
 - [42579번 - 베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) - [소스](src/com/algorithm/programmers/Solution42579.java) - [풀이](https://jongwoon.tistory.com/154)
+
+#### 2021. 02. 01
+
+- [42584번 - 주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) - [소스](src/com/algorithm/programmers/Solution42584.java) - [풀이](https://jongwoon.tistory.com/156)
