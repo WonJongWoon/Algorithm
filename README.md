@@ -208,3 +208,7 @@
 #### 2021. 02. 01
 
 - [42584번 - 주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) - [소스](src/com/algorithm/programmers/Solution42584.java) - [풀이](https://jongwoon.tistory.com/156)
+
+#### 2021. 02. 02
+
+- [12980번 - 점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980) - [소스](src/com/algorithm/programmers/Solution12980.java) - [풀이](https://jongwoon.tistory.com/157)
