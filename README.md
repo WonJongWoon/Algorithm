@@ -212,3 +212,7 @@
 #### 2021. 02. 02
 
 - [12980번 - 점프와 순간 이동](https://programmers.co.kr/learn/courses/30/lessons/12980) - [소스](src/com/algorithm/programmers/Solution12980.java) - [풀이](https://jongwoon.tistory.com/157)
+
+#### 2021. 02. 03
+
+- [12942번 - 최적의 행렬 곱셈](https://programmers.co.kr/learn/courses/30/lessons/12942) - [소스](src/com/algorithm/programmers/Solution12942.java) - [풀이](https://jongwoon.tistory.com/158)
