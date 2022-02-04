@@ -22,12 +22,12 @@ class Solution42579 {
 			this.play = play;
 		}
 
-		public int getId() {
-			return id;
-		}
-
 		@Override
 		public int compareTo(Genre other) {
+			if (this.play == other.play) {
+				return this.id - other.id;
+			}
+
 			return other.play - this.play;
 		}
 	}
@@ -46,10 +46,10 @@ class Solution42579 {
 		List<Integer> result = new ArrayList<>();
 		for (List<Genre> songs : statistics.values()) {
 			Collections.sort(songs);
-			
+
 			int length = Math.min(songs.size(), 2);
 			for (int idx = 0; idx < length; idx++) {
-				result.add(songs.get(idx).getId());
+				result.add(songs.get(idx).id);
 			}
 		}
 
