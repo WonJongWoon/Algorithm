@@ -220,3 +220,7 @@
 #### 2021. 02. 04
 
 - [42884번 - 단속카메라](https://programmers.co.kr/learn/courses/30/lessons/42884) - [소스](src/com/algorithm/programmers/Solution42884.java) - [풀이](https://jongwoon.tistory.com/159)
+
+#### 2021. 02. 05
+
+- [77485번 - 행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) - [소스](src/com/algorithm/programmers/Solution77485.java) - [풀이](https://jongwoon.tistory.com/160)
