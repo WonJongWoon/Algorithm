@@ -224,3 +224,7 @@
 #### 2021. 02. 05
 
 - [77485번 - 행렬 테두리 회전하기](https://programmers.co.kr/learn/courses/30/lessons/77485) - [소스](src/com/algorithm/programmers/Solution77485.java) - [풀이](https://jongwoon.tistory.com/160)
+
+#### 2021. 02. 06
+
+- [77885번 - 2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885) - [소스](src/com/algorithm/programmers/Solution77885.java) - [풀이](https://jongwoon.tistory.com/161)
