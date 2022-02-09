@@ -236,3 +236,7 @@
 #### 2021. 02. 08
 
 - [67257번 - [카카오 인턴]수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257) - [소스](src/com/algorithm/programmers/Solution67257.java) - [풀이](https://jongwoon.tistory.com/163)
+
+#### 2021. 02. 09
+
+- [62048번 - 멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) - [소스](src/com/algorithm/programmers/Solution62048.java) - [풀이](https://jongwoon.tistory.com/164)
