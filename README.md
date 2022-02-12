@@ -248,3 +248,7 @@
 #### 2021. 02. 11
 
 - [12905번 - 가장 큰 정사각형 찾기](https://programmers.co.kr/learn/courses/30/lessons/12905) - [소스](src/com/algorithm/programmers/Solution12905.java) - [풀이](https://jongwoon.tistory.com/166)
+
+#### 2021. 02. 12
+
+- [17687번 - [3차]n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687) - [소스](src/com/algorithm/programmers/Solution17687.java) - [풀이](https://jongwoon.tistory.com/167)
