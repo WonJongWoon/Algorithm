@@ -252,3 +252,7 @@
 #### 2021. 02. 12
 
 - [17687번 - [3차]n진수 게임](https://programmers.co.kr/learn/courses/30/lessons/17687) - [소스](src/com/algorithm/programmers/Solution17687.java) - [풀이](https://jongwoon.tistory.com/167)
+
+#### 2021. 02. 13
+
+- [42627번 - 디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) - [소스](src/com/algorithm/programmers/Solution42627.java) - [풀이](https://jongwoon.tistory.com/168)
