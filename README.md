@@ -260,3 +260,7 @@
 #### 2021. 02. 14
 
 - [12952번 - N-Queen](https://programmers.co.kr/learn/courses/30/lessons/12952) - [소스](src/com/algorithm/programmers/Solution12952.java) - [풀이](https://jongwoon.tistory.com/169)
+
+#### 2021. 02. 15
+
+- [81302번 - 거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302) - [소스](src/com/algorithm/programmers/Solution81302.java) - [풀이](https://jongwoon.tistory.com/170)
