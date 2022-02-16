@@ -264,3 +264,7 @@
 #### 2021. 02. 15
 
 - [81302번 - 거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302) - [소스](src/com/algorithm/programmers/Solution81302.java) - [풀이](https://jongwoon.tistory.com/170)
+
+#### 2021. 02. 16
+
+- [64065번 - 튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) - [소스](src/com/algorithm/programmers/Solution64065.java) - [풀이](https://jongwoon.tistory.com/171)
