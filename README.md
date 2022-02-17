@@ -268,3 +268,7 @@
 #### 2021. 02. 16
 
 - [64065번 - 튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) - [소스](src/com/algorithm/programmers/Solution64065.java) - [풀이](https://jongwoon.tistory.com/171)
+
+#### 2021. 02. 17
+
+- [12938번 - 최고의 집합](https://programmers.co.kr/learn/courses/30/lessons/12938) - [소스](src/com/algorithm/programmers/Solution12938.java) - [풀이](https://jongwoon.tistory.com/172)
