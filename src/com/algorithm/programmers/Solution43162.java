@@ -1,5 +1,8 @@
 package com.algorithm.programmers;
 
+// Created by https://github.com/WonJongWoon 2022/01/16
+// Problem : https://programmers.co.kr/learn/courses/30/lessons/43162
+
 import java.util.stream.IntStream;
 
 class Solution43162 {
