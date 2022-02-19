@@ -5,17 +5,14 @@ package com.algorithm.programmers;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
-import java.util.Comparator;
 import java.util.List;
 
 class Solution43164 {
 
-	private boolean[] visited;
 	private List<List<String>> paths;
+	private boolean[] visited;
 
 	public String[] solution(String[][] tickets) {
-		int depth = 0;
 		visited = new boolean[tickets.length];
 		paths = new ArrayList<>();
 
@@ -27,14 +24,12 @@ class Solution43164 {
 			return t1[0].compareTo(t2[0]);
 		});
 
-		dfs(tickets, "ICN", new ArrayList<>(Collections.singletonList("ICN")), depth);
-		paths.sort(Comparator.comparingInt(List::size));
-
+		dfs(tickets, "ICN", Arrays.asList("ICN"), 0);
 		return paths.get(0).toArray(new String[0]);
 	}
 
-	public void dfs(String[][] tickets, String start, List<String> path, int depth) {
-		if (depth == tickets.length) {
+	public void dfs(String[][] tickets, String start, List<String> path, int usedTicket) {
+		if (usedTicket == tickets.length) {
 			paths.add(path);
 			return;
 		}
@@ -50,7 +45,7 @@ class Solution43164 {
 			visited[idx] = true;
 			List<String> newPath = new ArrayList<>(path);
 			newPath.add(destination);
-			dfs(tickets, destination, newPath, depth + 1);
+			dfs(tickets, destination, newPath, usedTicket + 1);
 			visited[idx] = false;
 		}
 	}
