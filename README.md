@@ -284,3 +284,8 @@
 #### 2021. 02. 20
 
 - [42628번 - 이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) - [소스](src/com/algorithm/programmers/Solution42628.java) - [풀이](https://jongwoon.tistory.com/175)
+
+#### 2021. 02. 21
+
+- [12927번 - 야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927) - [소스](src/com/algorithm/programmers/Solution12927.java) - [풀이](https://jongwoon.tistory.com/176)
+
