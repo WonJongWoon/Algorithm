@@ -289,3 +289,7 @@
 
 - [12927번 - 야근 지수](https://programmers.co.kr/learn/courses/30/lessons/12927) - [소스](src/com/algorithm/programmers/Solution12927.java) - [풀이](https://jongwoon.tistory.com/176)
 
+#### 2021. 02. 22
+
+- [12946번 - 하노이의 탑](https://programmers.co.kr/learn/courses/30/lessons/12946) - [소스](src/com/algorithm/programmers/Solution12946.java) - [풀이](https://jongwoon.tistory.com/177)
+
