@@ -6,22 +6,19 @@ package com.algorithm.programmers;
 class Solution42860 {
 
 	public int solution(String name) {
-		int offset = name.length() - 1;
+		int length = name.length();
+		int offset = length - 1;
 
 		int result = 0;
-		for (int idx = 0; idx < name.length(); idx++) {
-			if (name.charAt(idx) > 'N') {
-				result += ('Z' - name.charAt(idx) + 1);
-			} else {
-				result += (name.charAt(idx) - 'A');
-			}
+		for (int idx = 0; idx < length; idx++) {
+			result += Math.min(name.charAt(idx) - 'A', 'Z' - name.charAt(idx) + 1);
 
 			int next = idx + 1;
-			while ((next < name.length()) && (name.charAt(next) == 'A')) {
+			while ((next < length) && (name.charAt(next) == 'A')) {
 				next++;
 			}
 
-			offset = Math.min(offset, (2 * idx) + name.length() - next);
+			offset = Math.min(offset, idx + length - next + Math.min(idx, length - next));
 		}
 
 		result += offset;
