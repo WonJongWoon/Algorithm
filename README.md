@@ -293,3 +293,7 @@
 
 - [12946번 - 하노이의 탑](https://programmers.co.kr/learn/courses/30/lessons/12946) - [소스](src/com/algorithm/programmers/Solution12946.java) - [풀이](https://jongwoon.tistory.com/177)
 
+#### 2021. 02. 23
+
+- [42860번 - 조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) - [소스](src/com/algorithm/programmers/Solution42860.java) - [풀이](https://jongwoon.tistory.com/178)
+
