@@ -297,3 +297,7 @@
 
 - [42860번 - 조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) - [소스](src/com/algorithm/programmers/Solution42860.java) - [풀이](https://jongwoon.tistory.com/178)
 
+#### 2021. 02. 24
+
+- [49993번 - 스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993) - [소스](src/com/algorithm/programmers/Solution49993.java) - [풀이](https://jongwoon.tistory.com/179)
+
